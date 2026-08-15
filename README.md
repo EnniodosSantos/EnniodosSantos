@@ -6,7 +6,6 @@ Sou estudante de Ciência de Dados na UFMS, com foco em Machine Learning, sistem
 
 <div align="center">
   <a href="https://github.com/EnniodosSantos">
-    <img height="170em" src="https://github-stats-extended.vercel.app/api?username=EnniodosSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EnniodosSantos&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
 </div>
